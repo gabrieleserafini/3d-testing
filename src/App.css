@@ -1,0 +1,10 @@
+body{
+  background: #000;
+}
+.App{
+  width: 100vw;
+  height: 100vh;
+  /*background-image: url("https://c4.wallpaperflare.com/wallpaper/792/449/284/3d-forest-clouds-stars-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
